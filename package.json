@@ -7,7 +7,7 @@
     "config": "^3.0.1",
     "fastify": "^1.13.4",
     "fastify-plugin": "^1.4.0",
-    "fastify-swagger": "^1.0.0",
+    "fastify-swagger": "^5.2.0",
     "rimraf": "^2.6.3",
     "source-map-support": "^0.5.10",
     "ts-node": "^7.0.1",
